@@ -1,0 +1,58 @@
+﻿  main.cpp
+main.cpp(53): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(100): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(100): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(101): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(102): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+main.cpp(102): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+main.cpp(239): warning C4018: '<': signed/unsigned mismatch
+main.cpp(192): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+main.cpp(172): warning C4101: 'ch2': unreferenced local variable
+main.cpp(171): warning C4101: 'k': unreferenced local variable
+main.cpp(170): warning C4101: 'index': unreferenced local variable
+main.cpp(172): warning C4101: 'ch1': unreferenced local variable
+main.cpp(318): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+main.cpp(337): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.cpp(366): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(379): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(380): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+main.cpp(381): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(399): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(411): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(412): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(413): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(414): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(416): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(534): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(537): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(540): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(640): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(742): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(931): warning C4305: '+=': truncation from 'double' to 'float'
+main.cpp(938): warning C4305: '-=': truncation from 'double' to 'float'
+main.cpp(947): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(953): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(975): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(981): warning C4305: '+=': truncation from 'double' to 'float'
+main.cpp(986): warning C4305: '-=': truncation from 'double' to 'float'
+main.cpp(1013): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+main.cpp(1014): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(1033): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+main.cpp(1034): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(1066): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(1074): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+main.cpp(1099): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+main.cpp(1100): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+main.cpp(1101): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+main.cpp(1222): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(1225): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(1228): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(1328): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+main.cpp(1430): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  A3.vcxproj -> C:\Users\Andrew\Desktop\CPS511\WORK3\Debug\A3.exe
+  A3.vcxproj -> C:\Users\Andrew\Desktop\CPS511\WORK3\Debug\A3.pdb (Full PDB)
